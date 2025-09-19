@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for src-polished-snowflake-9689 on 2025-09-18T23:49:30+07:00
+# fly.toml app configuration file generated for src-long-thunder-521 on 2025-09-18T23:57:02+07:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'src-polished-snowflake-9689'
+app = 'src-long-thunder-521'
 primary_region = 'sin'
 console_command = '/code/manage.py shell'
 
